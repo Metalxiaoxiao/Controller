@@ -10,6 +10,8 @@
 
 #include "main.h"
 #include "gpio.h"
+#include "stm32f1xx_hal_tim.h"
+
 
 typedef struct {
 	uint8_t SELECT;
